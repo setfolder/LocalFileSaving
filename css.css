@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+a {
+    text-decoration: inherit;
+    color: inherit;
+}
+body {
+    font-family: Tahoma;
+    margin: 0;
+}
+h1 {
+    font-size: 110%;
+}
